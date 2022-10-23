@@ -18,7 +18,6 @@ function Item({ item, onUpdateItem, onDeleteItem }) {
   function handleButtonClick(){
 fetch(`http://localhost:4000/items${item.id}`,{
   method: "DELETE",
-  headers: {"Content-Type": "application/json"},
 })
 .then((resp)=>resp.json())
 .then(()=>onDeleteItem(item))

@@ -38,10 +38,10 @@ function ShoppingList() {
     setItems(updatedItems);
   }
 
-  function handleDeleteItem(delted){
-    const deletedItem = items.filter((item)=>item.id !== delted.id)
-    setItems(deletedItem);
-  }
+  function handleDeleteItem(deletedItem) {
+    const updatedItems = items.filter((item) => item.id !== deletedItem.id);
+    setItems(updatedItems);
+  }  
 
   return (
     <div className="ShoppingList">
