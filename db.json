@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Yogurt",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 2,
@@ -35,6 +35,72 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Donuts",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Donu",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "Donuts",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "Donuts",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "cream",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "cream",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 12
+    },
+    {
+      "name": "cream",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 13
+    },
+    {
+      "name": "cream",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 14
+    },
+    {
+      "name": "cream",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 15
+    },
+    {
+      "name": "cream",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 16
+    },
+    {
+      "name": "iceCream",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 17
     }
   ]
 }
